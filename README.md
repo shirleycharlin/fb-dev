@@ -10,7 +10,6 @@ Have fun coding!
 
 Shirley
 
-P/s: Thank you to my boss at Utrix Pte Ltd for this opportunity!
 ## Acknowledgements
 
  - [React JS + Firebase Login](https://www.freecodecamp.org/news/use-firebase-authentication-in-a-react-app/)
