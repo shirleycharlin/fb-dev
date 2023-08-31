@@ -1,5 +1,3 @@
-# utrix-fb-dev
-
 # Firebase Practices
 
 This is a online space where I will archives my practicals on Google Cloud Firebase. This include study notes (in comments) and reference links when I troubleshoot.
